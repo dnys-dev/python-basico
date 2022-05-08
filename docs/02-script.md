@@ -39,6 +39,8 @@ usamos o comando # na frente da frases ou caracteres
 
 **São três contexto**
 
-1 - Informar a intenção do seu código
-2 - Comentar um controle de alguma coisa, tem feramenta de teste que permite colocar um comentário na frente do código para mostrar o que deve ser feito naquela linha ( comentario de forma de tag)
-3 - `Shebangd` - é um comentário do universo Unix, sempre na primeira linha (#!/usr/bin/python)
+1 - Informar a intenção do seu código.
+
+2 - Comentar um controle de alguma coisa, tem feramenta de teste que permite colocar um comentário na frente do código para mostrar o que deve ser feito naquela linha ( comentario de forma de tag).
+
+3 - `Shebangd` - é um comentário do universo Unix, sempre na primeira linha `#!/usr/bin/python`.
