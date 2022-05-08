@@ -28,3 +28,8 @@ mostra uma modo interativo para estudo, um demo.
 dentro do intepretador do Python vc pode usar a função help()
 
 dentro do help vc pode usar o comando `modules` e `topics`
+
+## O que é script
+
+são comandos encadeado ( um em baixo do outro ) de não depende de outros para exercutar uma tarefa.
+
