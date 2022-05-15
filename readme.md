@@ -31,3 +31,19 @@ e a linguagem Python, também aprenderá como instalar e preparar um ambiente pa
 00. Ambientes virtuais, instalação de pacotes e Ipython
 
 Duração: 5h
+----
+
+Day 2 - Tipos e estruturas de dados
+Neste capítulo você conhecerá os tipos e estruturas de dados do Python e execicios práticos para entender como manipulamos informações.
+
+Protocolos e Tipos de dados primitivos
+Float, Bool, None
+Textos, Caracteres e Strings
+Formatação de texto
+Tipos de dados compostos e Tuplas
+Listas
+Exercicio com Listas, Tuplas, Loops e Condicionais
+Sets (conjuntos)
+Dicionários
+Exercicio: Refatorando nosso Hello World com dicionários
+Duração: 7h
