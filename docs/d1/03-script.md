@@ -35,3 +35,12 @@ python3 hello.py
 ### usando o interpretador especificado na linha `#!/usr/bin/env python`
 ./hello.py
 A vantagem da segunda forma é que podemos mudar a extensão de .py para .exe por exemplo, ou podemos até remover a extensão e executar ./hello
+
+## Cometário em mais linhas
+
+Os cometários de multiplas linhas usa três aspas
+
+## Dunder
+
+E referente a substituição de __ 
+
